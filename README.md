@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrusoare
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Python and JS
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m specialised in Javascript and Python
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me alexandrusoare98@gmail.com
 
