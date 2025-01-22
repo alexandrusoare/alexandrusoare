@@ -7,7 +7,6 @@
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexandrusoare&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&year=2024)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexandrusoare&theme=tokyonight&hide_border=true&date_format=[Y])<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrusoare&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&year=2024)
 
 <!---
